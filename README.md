@@ -1,16 +1,59 @@
-## Hi there 👋
+# Welcome to My GitHub 👋
 
-<!--
-**kimkh0118/kimkh0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! **부산소프트웨어마이스터고등학교에 재학 중인 김강현**입니다.
 
-Here are some ideas to get you started:
+직접 만들며 배우고, 경험을 돌아보며 성장하는 개발자를 꿈꿉니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "어차피 해야 할 일이다."
+
+```python
+print("오늘의 도전을 내일의 실력으로 🌱")
+```
+
+## About Me 🙋‍♂️
+
+- 배운 문법을 실제로 활용하며 프로그램이 동작하는 과정을 익히고 있어요.
+- 서버와 프론트엔드, 데이터베이스를 연결하는 데 관심이 있어요.
+- 데이터베이스는 문법뿐 아니라 어떻게 설계하는지가 중요하다고 생각해요.
+- 도전의 결과를 돌아보고, 다음에 보완할 점을 기록해요.
+
+## Skills 💻
+
+- Python 🐍 — 기초·심화 문법 학습 및 서버 구현 경험
+- C ⚙️ — 기초 문법과 메모리 할당 과정 학습
+- Java ☕ — 객체지향 개념과 기본 문법 학습
+- HTML · CSS · JavaScript 🌐 — 웹 기본기 학습
+- React ⚛️ — 컴포넌트, props, useState 학습
+- Database 🗄️ — 테이블 간 관계와 ERD 모델링 학습
+
+## Experience 🛠️
+
+- FastAPI와 Flask를 활용한 서버 구현
+- 서버·프론트엔드·데이터베이스 연결 및 로컬 환경 실행
+- 부울경 AI·SW 융합 경진대회 참가
+- EBS AI·SW 고교챌린지 참가
+- 제11회 전국 고등학교 동아리 경진대회 참가
+- 반장으로 활동
+
+## Recent My Study 📚
+
+- 자료구조 기본기 보완하기
+- Python과 Java를 더 깊이 공부하기
+- React로 화면을 구성하고 상태 관리 익히기
+- ERD를 활용한 데이터베이스 설계 연습하기
+- C 언어를 통해 메모리 동작 이해하기
+
+## Goals 🎯
+
+- 소프트웨어 관련 대회 본선 진출하기
+- Python·Java·웹 개발 역량 높이기
+- GitHub와 Docker 활용 능력 기르기
+- React Native와 Spring Boot 학습에 도전하기
+- 자신감 있게 프로젝트를 소개하고 발표하기
+
+## My Growth Routine 🌱
+
+- 평일에는 관심 있는 기술을 공부해요.
+- 주말에는 학교 수업을 복습하고 노트를 정리해요.
+- 완성도와 함께 기한 안에 마무리하는 습관을 길러요.
+- 스스로를 믿고, 배운 것을 다음 도전에 적용해요.
